@@ -1,0 +1,59 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "Application.AboutPage.About",
+            "projectName": "PV2CP_f69ab53f"
+        },
+        {
+            "type": "java",
+            "name": "ValidPasswordChecker",
+            "request": "launch",
+            "mainClass": "Application.Modes.ValidPasswordChecker",
+            "projectName": "PV2CP_f69ab53f"
+        },
+        {
+            "type": "java",
+            "name": "MainMenu",
+            "request": "launch",
+            "mainClass": "Application.MainMenu",
+            "projectName": "PV2CP_f69ab53f"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "Application.GameModes.TriviaQuiz.Quiz",
+            "projectName": "PV2CP_f69ab53f"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "Application.GameModes.TriviaGameQuiz.Quiz",
+            "projectName": "PV2CP_f69ab53f"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "PV2CP_f69ab53f",
+            "vmArgs": "--module-path 'c:\\Users\\iamir\\OneDrive\\Desktop\\java\\javafx 21.2\\lib' --add-modules javafx.swt,javafx.web,javafx.swing,javafx.media,javafx.graphics,javafx.fxml,javafx.controls,javafx.base"
+        },
+        {
+            "type": "java",
+            "name": "ValidPasswordChecker",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "PV2CP_f69ab53f",
+            "vmArgs": "--module-path 'c:\\Users\\iamir\\OneDrive\\Desktop\\java\\javafx 21.2\\lib' --add-modules javafx.swt,javafx.web,javafx.swing,javafx.media,javafx.graphics,javafx.fxml,javafx.controls,javafx.base"
+        }
+    ]
+}

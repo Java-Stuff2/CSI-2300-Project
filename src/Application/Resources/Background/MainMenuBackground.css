@@ -1,0 +1,7 @@
+#VBox{
+    -fx-background-image: url("/Application/Resources/BAckground/Abstract.jpg");
+    /* -fx-background-repeat: stretch; */
+    -fx-background-size: 3000 2000;
+    -fx-background-position: center center;
+    
+}
